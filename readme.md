@@ -35,6 +35,7 @@ Para ejecutar los proyectos en tu navegador:
 
 ## 📝 Lista de Proyectos
 - **Proyecto 1:** Color Flipper.
+- **Proyecto 2:** Palindrome checker.
 
 ---
 ¡Espero que este repositorio sea útil para aprender y mejorar en JavaScript! 🚀
