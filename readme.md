@@ -35,8 +35,9 @@ Para ejecutar los proyectos en tu navegador:
 
 ## 📝 Lista de Proyectos
 - **Proyecto 1:** Color Flipper.
-- **Proyecto 2:** Palindrome checker.
-- **Proyecto 2:** Random Quote Generator.
+- **Proyecto 2:** Palindrome Checker.
+- **Proyecto 3:** Random Quote Generator.
+- **Proyecto 4:** Stop Watch.
 
 ---
 ¡Espero que este repositorio sea útil para aprender y mejorar en JavaScript! 🚀
