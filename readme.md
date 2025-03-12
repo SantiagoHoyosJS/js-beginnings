@@ -20,7 +20,7 @@ Cada mini proyecto tendrá su propia carpeta con la siguiente estructura básica
 │── README.md
 ```
 
-## 🚀 Tecnologías Utilizadas
+## Tecnologías Utilizadas
 - JavaScript
 - HTML5
 - CSS3
@@ -38,7 +38,5 @@ Para ejecutar los proyectos en tu navegador:
 - **Proyecto 2:** Palindrome Checker.
 - **Proyecto 3:** Random Quote Generator.
 - **Proyecto 4:** Stop Watch.
-
----
-¡Espero que este repositorio sea útil para aprender y mejorar en JavaScript! 🚀
+- **Proyecto 4:** TODO List.
 
