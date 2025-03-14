@@ -33,10 +33,10 @@ Para ejecutar los proyectos en tu navegador:
    ```
 2. Abre el archivo `index.html` del proyecto en tu navegador o usa una extensión como Live Server en VS Code.
 
-## 📝 Lista de Proyectos
+## Lista de Proyectos
 - **Proyecto 1:** Color Flipper.
 - **Proyecto 2:** Palindrome Checker.
 - **Proyecto 3:** Random Quote Generator.
 - **Proyecto 4:** Stop Watch.
-- **Proyecto 4:** TODO List.
+- **Proyecto 5:** TODO List.
 
